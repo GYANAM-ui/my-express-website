@@ -4,9 +4,10 @@
   "description": "This is a blog we created during CodeWithHarry express course",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
-  "author": "Harry",
+  "author": "Gyanam",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.7"
